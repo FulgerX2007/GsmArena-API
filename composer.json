@@ -1,6 +1,6 @@
 {
   "description": "GsmArena API",
-  "name": "fulgerx2007/gsmarena-api",
+  "name": "EvgeniyPP/gsmarena-api",
   "keywords": [
     "package",
     "composer"
@@ -13,17 +13,22 @@
       "name": "Andrian Iliev",
       "email": "fulgerx2007@gmail.com",
       "homepage": "https://github.com/FulgerX2007/GsmArena-API"
+    },
+    {
+      "name": "Eugene Petryankin",
+      "email": "aysanru@gmail.com",
+      "homepage": "https://github.com/evgeniyPP"
     }
   ],
   "support": {
-    "email": "fulgerx2007@gmail.com"
+    "email": "aysanru@gmail.com"
   },
   "require": {
     "php": ">=7.2"
   },
   "autoload": {
     "psr-4": {
-      "FulgerX2007\\": ""
+      "EvgeniyPP\\": ""
     }
   }
 }
